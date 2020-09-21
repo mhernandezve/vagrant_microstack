@@ -10,3 +10,6 @@
 ```username: admin```
 
 ```password: keystone```
+
+### Original MicroStack installation instructions
+https://ubuntu.com/tutorials/microstack-get-started#4-interact-with-openstack
