@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-ignition",["= 0.0.3"]],["vagrant-protobox",["= 0.0.2"]]],"checksum":"8e779e3dbf77ad297b767df489babdf20867e3e31d714003c68feb08f3c5babf","vagrant_version":"2.2.10"}
